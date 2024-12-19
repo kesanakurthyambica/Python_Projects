@@ -21,20 +21,3 @@ How to Use
 3.Run the following command:
 
 python student_management.py
-
-Sample Output
-
-Here’s what the program looks like when you run it:
-
-=================================================
-       Welcome To Student Management System       
-=================================================
-Enter 1 : To View Student's List
-Enter 2 : To Add New Student
-Enter 3 : To Search Student
-Enter 4 : To Remove Student
-Enter 5 : To Exit
-=================================================
-
-Please select an option from the above:
-
