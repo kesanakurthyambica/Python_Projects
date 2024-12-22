@@ -24,5 +24,6 @@ This script allows you to manage a list of students with a variety of options.
 2.Open a terminal and navigate to the folder containing the script.
 
 3.Run the following command:
-
+```bash
 python student_management.py
+```
