@@ -27,3 +27,6 @@ This script allows you to manage a list of students with a variety of options.
 ```bash
 python student_management.py
 ```
+# **Requirements**
+Python 3.x installed on your system.
+No additional libraries are needed.
