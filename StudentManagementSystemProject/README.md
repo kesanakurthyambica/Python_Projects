@@ -1,9 +1,10 @@
-
-Student Management System
+# **Student Management System**
 
 This script allows you to manage a list of students with a variety of options.
 
-Features
+---
+
+# **Features**
 
 1.View the list of students
 
@@ -13,7 +14,10 @@ Features
 
 4.Remove a student from the list
 
-How to Use
+---
+
+
+# **How to Use**
 
 1.Save the script in a file named student_management.py.
 
